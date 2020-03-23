@@ -1,0 +1,19 @@
+.myMargin{
+    align-items: center;
+    margin: 3px;
+     padding:5px; 
+        }
+.myMargin2{
+    padding-left: 15px;
+    margin: 4px;
+}
+.footer
+{ 
+    bottom: 0px;
+    left: 0px;
+    background-color:rgba(177, 179, 182, 0.733);
+    text-align: center;
+    margin-top: 90px;
+    padding: 10px;
+    color:white;
+}
